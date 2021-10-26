@@ -1,2 +1,2 @@
-# sentieri_angular
+# sentieri
 sentieri gpx mysql 
